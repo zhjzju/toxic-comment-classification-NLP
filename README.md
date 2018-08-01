@@ -1,2 +1,3 @@
 # toxic-comment-classification-NLP
-Toxic Comment Classification Challenge - Kaggle
+https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+https://zhuanlan.zhihu.com/p/33925599
